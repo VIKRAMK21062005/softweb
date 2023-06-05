@@ -708,7 +708,7 @@ style.css
             margin-right:auto;
 
         }
-        ```
+```
 
 ## OUTPUT:
 
